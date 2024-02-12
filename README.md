@@ -1,4 +1,4 @@
-# Hello, World! 👋 I'm [Gift Amachree](https://github.com/Milesh01)
+# Hello, World! 👋 I'm [@milesh01](https://github.com/Milesh01)
  
  **🚀 Aspiring Frontend Developer | 🔍 Open for Collaboration | 📘 Lifelong Learner**
  
