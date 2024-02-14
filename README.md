@@ -1,8 +1,3 @@
-# Hello, World! 👋 I'm [@milesh01](https://github.com/Milesh01)
- 
- **🚀 Aspiring Frontend Developer | 🔍 Open for Collaboration | 📘 Lifelong Learner**
- 
- 
 ## About Me
 
 - 🌐 **Frontend Developer**: My expertise includes building responsive and user-friendly interfaces using `HTML`, `CSS`, and `JavaScript`.
@@ -29,7 +24,7 @@ If you're interested in collaborating, have any questions, or simply want to con
 
 
 <p>
-  <a href="mailto:amakrigift2000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gtcmilesh@gmail.com"></a>
+  <a href="mailto:gtcmilesh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gtcmilesh@gmail.com"></a>
   <a href="https://www.linkedin.com/in/gift-amachree-8a523623b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
